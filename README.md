@@ -1,2 +1,2 @@
 # shell-air
-rudimental shell script to control phillips 2889/10
+rudimental shell script to control philips 2889/10 air purifier
