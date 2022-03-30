@@ -1,4 +1,5 @@
 #!/bin/bash
+##written by carlos nikolaus krämer
 pidof -o %PPID -x $0 >/dev/null && echo "ERROR: Script $0 already running" && exit 1
 airctrl --ipaddr xxx.xxx.xxx.xxx --protocol coap --aqil 0
 while :
